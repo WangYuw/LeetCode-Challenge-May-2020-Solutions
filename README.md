@@ -6,3 +6,4 @@ Solution of LeetCoding Challenge May 2020 with JAVA
 * Day 4 - [Number Complement](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-4-Number-Complement/Solution.java)
 * Day 5 - [First Unique Character in a String](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-5-First-Unique-Character-in-a-String/Solution.java)
 * Day 6 - [Majority Element](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-6-Majority-Element/Solution.java)
+* Day 7 - [Cousins in Binary Tree](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-7-Cousins-in-Binary-Tree/Solution.java)
