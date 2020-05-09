@@ -8,3 +8,4 @@ Solution of LeetCoding Challenge May 2020 with JAVA
 * Day 6 - [Majority Element](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-6-Majority-Element/Solution.java)
 * Day 7 - [Cousins in Binary Tree](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-7-Cousins-in-Binary-Tree/Solution.java)
 * Day 8 - [Check If It Is a Straight Line](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-8-Check-If-It-Is-a-Straight-Line/Solution.java)
+* Day 9 - [Valid Perfect Square](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-9-Valid-Perfect-Square/Solution.java)
