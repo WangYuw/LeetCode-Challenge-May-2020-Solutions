@@ -9,4 +9,4 @@ Solution of LeetCoding Challenge May 2020 with JAVA
 * Day 7 - [Cousins in Binary Tree](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-07-Cousins-in-Binary-Tree/Solution.java)
 * Day 8 - [Check If It Is a Straight Line](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-08-Check-If-It-Is-a-Straight-Line/Solution.java)
 * Day 9 - [Valid Perfect Square](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-09-Valid-Perfect-Square/Solution.java)
-* Day 10 - [Find the Town Judge](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-10-Find-the-Town-Judge/Solution.java)
+* Day 10 - [Flood Fill](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-11-Flood-Fill/Solution.java)
