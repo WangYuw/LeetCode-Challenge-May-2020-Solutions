@@ -12,3 +12,4 @@ Solution of LeetCoding Challenge May 2020 with JAVA
 * Day 10 - [Find the Town Judge](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-10-Find-the-Town-Judge/Solution.java)
 * Day 11 - [Flood Fill](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-11-Flood-Fill/Solution.java)
 * Day 12 - [Single Element in a Sorted Array](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-12-Single-Element-in-a-Sorted-Array/Solution.java)
+* Day 13 - [Remove K Digits](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-13-Remove-K-Digits/Solution.java)
