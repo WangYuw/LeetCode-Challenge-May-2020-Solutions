@@ -15,8 +15,8 @@ Solution of LeetCoding Challenge May 2020 with JAVA
 * Day 13 - [Remove K Digits](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-13-Remove-K-Digits/Solution.java)
 * Day 14 - [Implement Trie (Prefix Tree)](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-14-Implement-Trie-Prefix-Tree/Solution.java)
 * Day 15 - [Maximum Sum Circular Subarray](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-15-Maximum-Sum-Circular-Subarray/Solution.java)
-* Day 16 - 
-* Day 17 - 
+* Day 16 - [Odd Even Linked List](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-16-Odd-Even-Linked-List/Solution.java)
+* Day 17 - [Find All Anagrams in a String](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-17-Find-All-Anagrams-in-a-String/Solution.java)
 * Day 18 - 
 * Day 19 - 
 * Day 20 - 
