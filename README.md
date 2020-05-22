@@ -21,7 +21,7 @@ Solution of LeetCoding Challenge May 2020 with JAVA
 * Day 19 - [Online Stock Span](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-19-Online-Stock-Span/Solution.java)
 * Day 20 - [Kth Smallest Element in a BST](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-20-Kth-Smallest-Element-in-a-BST/Solution.java)
 * Day 21 - [Count Square Submatrices with All Ones](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-21-Count-Square-Submatrices-with-All-Ones/Solution.java)
-* Day 22 - 
+* Day 22 - [Sort Characters By Frequency](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-22-Sort-Characters-By-Frequency/Solution.java)
 * Day 23 - 
 * Day 24 - 
 * Day 25 - 
