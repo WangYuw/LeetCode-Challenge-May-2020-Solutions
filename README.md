@@ -24,7 +24,7 @@ Solution of LeetCoding Challenge May 2020 with JAVA
 * Day 22 - [Sort Characters By Frequency](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-22-Sort-Characters-By-Frequency/Solution.java)
 * Day 23 - [Interval List Intersections](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-23-Interval-List-Intersections/Solution.java)
 * Day 24 - [Construct Binary Search Tree from Preorder Traversal](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-24-Construct-Binary-Search-Tree-from-Preorder-Traversal/Solution.java)
-* Day 25 - 
+* Day 25 - [Uncrossed Lines](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-25-Uncrossed-Lines/Solution.java)
 * Day 26 - 
 * Day 27 - 
 * Day 28 - 
