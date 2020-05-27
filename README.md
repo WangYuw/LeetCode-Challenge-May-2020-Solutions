@@ -26,7 +26,7 @@ Solution of LeetCoding Challenge May 2020 with JAVA
 * Day 24 - [Construct Binary Search Tree from Preorder Traversal](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-24-Construct-Binary-Search-Tree-from-Preorder-Traversal/Solution.java)
 * Day 25 - [Uncrossed Lines](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-25-Uncrossed-Lines/Solution.java)
 * Day 26 - [Contiguous Array](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-26-Contiguous-Array/Solution.java)
-* Day 27 - 
+* Day 27 - [Possible Bipartition](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-27-Possible-Bipartition/Solution.java)
 * Day 28 - 
 * Day 29 -
 * Day 30 - 
