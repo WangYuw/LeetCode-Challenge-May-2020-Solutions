@@ -28,6 +28,6 @@ Solution of LeetCoding Challenge May 2020 with JAVA
 * Day 26 - [Contiguous Array](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-26-Contiguous-Array/Solution.java)
 * Day 27 - [Possible Bipartition](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-27-Possible-Bipartition/Solution.java)
 * Day 28 - [Counting Bits](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-28-Counting-Bits/Solution.java)
-* Day 29 -
+* Day 29 - [Course Schedule](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-29-Course-Schedule/Solution.java)
 * Day 30 - 
 * Day 31 -  
