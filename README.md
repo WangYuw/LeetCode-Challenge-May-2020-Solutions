@@ -29,5 +29,5 @@ Solution of LeetCoding Challenge May 2020 with JAVA
 * Day 27 - [Possible Bipartition](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-27-Possible-Bipartition/Solution.java)
 * Day 28 - [Counting Bits](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-28-Counting-Bits/Solution.java)
 * Day 29 - [Course Schedule](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-29-Course-Schedule/Solution.java)
-* Day 30 - 
-* Day 31 -  
+* Day 30 - [K Closest Points to Origin](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-30-K-Closest-Points-to-Origin/Solution.java)
+* Day 31 - [Edit Distance](https://github.com/WangYuw/LeetCoding-Challenge-May-2020/blob/master/Day-31-Edit-Distance/Solution.java)
